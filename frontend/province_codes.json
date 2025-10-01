@@ -1,0 +1,138 @@
+[
+  {
+    "kode_pro": 11,
+    "nama": "ACEH"
+  },
+  {
+    "kode_pro": 12,
+    "nama": "SUMATERA UTARA"
+  },
+  {
+    "kode_pro": 13,
+    "nama": "SUMATERA BARAT"
+  },
+  {
+    "kode_pro": 14,
+    "nama": "RIAU"
+  },
+  {
+    "kode_pro": 15,
+    "nama": "JAMBI"
+  },
+  {
+    "kode_pro": 16,
+    "nama": "SUMATERA SELATAN"
+  },
+  {
+    "kode_pro": 17,
+    "nama": "BENGKULU"
+  },
+  {
+    "kode_pro": 18,
+    "nama": "LAMPUNG"
+  },
+  {
+    "kode_pro": 19,
+    "nama": "KEPULAUAN BANGKA BELITUNG"
+  },
+  {
+    "kode_pro": 21,
+    "nama": "KEPULAUAN RIAU"
+  },
+  {
+    "kode_pro": 31,
+    "nama": "DKI JAKARTA"
+  },
+  {
+    "kode_pro": 32,
+    "nama": "JAWA BARAT"
+  },
+  {
+    "kode_pro": 33,
+    "nama": "JAWA TENGAH"
+  },
+  {
+    "kode_pro": 34,
+    "nama": "DI YOGYAKARTA"
+  },
+  {
+    "kode_pro": 35,
+    "nama": "JAWA TIMUR"
+  },
+  {
+    "kode_pro": 36,
+    "nama": "BANTEN"
+  },
+  {
+    "kode_pro": 51,
+    "nama": "BALI"
+  },
+  {
+    "kode_pro": 52,
+    "nama": "NUSA TENGGARA BARAT"
+  },
+  {
+    "kode_pro": 53,
+    "nama": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "kode_pro": 61,
+    "nama": "KALIMANTAN BARAT"
+  },
+  {
+    "kode_pro": 62,
+    "nama": "KALIMANTAN TENGAH"
+  },
+  {
+    "kode_pro": 63,
+    "nama": "KALIMANTAN SELATAN"
+  },
+  {
+    "kode_pro": 64,
+    "nama": "KALIMANTAN TIMUR"
+  },
+  {
+    "kode_pro": 65,
+    "nama": "KALIMANTAN UTARA"
+  },
+  {
+    "kode_pro": 71,
+    "nama": "SULAWESI UTARA"
+  },
+  {
+    "kode_pro": 72,
+    "nama": "SULAWESI TENGAH"
+  },
+  {
+    "kode_pro": 73,
+    "nama": "SULAWESI SELATAN"
+  },
+  {
+    "kode_pro": 74,
+    "nama": "SULAWESI TENGGARA"
+  },
+  {
+    "kode_pro": 75,
+    "nama": "GORONTALO"
+  },
+  {
+    "kode_pro": 76,
+    "nama": "SULAWESI BARAT"
+  },
+  {
+    "kode_pro": 81,
+    "nama": "MALUKU"
+  },
+  {
+    "kode_pro": 82,
+    "nama": "MALUKU UTARA"
+  },
+  {
+    "kode_pro": 91,
+    "nama": "PAPUA"
+  },
+  {
+    "kode_pro": 92,
+    "nama": "PAPUA BARAT"
+  }
+]
